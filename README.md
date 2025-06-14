@@ -15,5 +15,5 @@ Captures keystrokes on a target machine and sends the logs to a remote server an
 
 ## Usage
 
--Run the socket server with the attacker's IP and port set, on the attacker's machine to listen for incoming logs.
--Run the Keylogger with attacker's IP and port set, on the target machine.
+- Run the socket server with the attacker's IP and port set, on the attacker's machine to listen for incoming logs.
+- Run the Keylogger with attacker's IP and port set, on the target machine.
